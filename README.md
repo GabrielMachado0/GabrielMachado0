@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel Machado
-- 👀 I’m interested in A.I and Automatic systems
-- 🌱 I’m currently learning A.I and automatic systems
+- 👀 I’m interested in development web, mobile and UI/IX
+- 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate in all development structures and softwares.
 - 📫 How to reach me e-mail gabriel.machado0@outlook.com
 
