@@ -1,10 +1,23 @@
-- 👋 Hi, I’m Gabriel Machado
-- 👀 I’m interested in development web, mobile and UI/IX
-- 🌱 I’m currently learning HTML, CSS, JS
-- 💞️ I’m looking to collaborate in all development structures and softwares.
-- 📫 How to reach me e-mail gabriel.machado0@outlook.com
+## Hi, I'm Gabriel Machado
 
-<!---
-GabrielMachado0/GabrielMachado0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+IT Support Analyst transitioning into Cybersecurity, based in Sydney, Australia.
+
+### Current focus
+- TryHackMe: Pre Security completed
+- Studying Jr Penetration Tester Path
+- Building hands-on labs in Nmap, enumeration, and basic exploitation
+
+### Technical background
+- PostgreSQL, MySQL, Firebird
+- Python, JavaScript
+- ERP support and troubleshooting
+- Networking fundamentals: TCP/IP, DNS, HTTP
+
+### Portfolio goals
+- Cybersecurity lab writeups
+- Network scanning and enumeration exercises
+- Python tools for automation and analysis
+
+### Contact
+- LinkedIn: [- LinkedIn: [[seu link]](https://www.linkedin.com/in/gabriel-machado-906a43285/)]
+- Email: [g.machado24@icloud.com]
