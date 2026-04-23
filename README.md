@@ -1,23 +1,44 @@
-## Hi, I'm Gabriel Machado
+## Hi, I'm Gabriel Machado 👋
 
-IT Support Analyst transitioning into Cybersecurity, based in Sydney, Australia.
+IT Support Analyst transitioning into Cybersecurity.
 
-### Current focus
-- TryHackMe: Pre Security completed
-- Studying Jr Penetration Tester Path
-- Building hands-on labs in Nmap, enumeration, and basic exploitation
+---
 
-### Technical background
-- PostgreSQL, MySQL, Firebird
-- Python, JavaScript
-- ERP support and troubleshooting
-- Networking fundamentals: TCP/IP, DNS, HTTP
+## 🔐 Cybersecurity Journey
 
-### Portfolio goals
-- Cybersecurity lab writeups
-- Network scanning and enumeration exercises
-- Python tools for automation and analysis
+- Completed **Pre Security Path** (TryHackMe)
+- Currently studying **Jr Penetration Tester Path**
+- Building hands-on labs in:
+  - Network scanning (Nmap)
+  - Enumeration
+  - Basic exploitation
 
-### Contact
+---
+
+## 🧠 Technical Background
+
+- **Databases:** PostgreSQL, MySQL, Firebird  
+- **Programming:** Python, JavaScript  
+- **Experience:** ERP support & troubleshooting (L1/L2)  
+- **Networking:** TCP/IP, DNS, HTTP  
+
+---
+
+## 📂 Projects & Portfolio
+
+- TryHackMe writeups (reverse engineering, web enumeration)
+- Network scanning & enumeration labs
+- Python tools for automation and analysis *(in progress)*
+
+---
+
+## 🎯 Goal
+
+Transition into a **Cybersecurity / SOC Analyst role** and continue developing practical offensive and defensive skills.
+
+---
+
+## 📫 Contact
+
 - LinkedIn: [[[Gabriel Machado]](https://www.linkedin.com/in/gabriel-machado-906a43285/)]
 - Email: [g.machado24@icloud.com]
