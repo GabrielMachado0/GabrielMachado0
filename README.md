@@ -19,5 +19,5 @@ IT Support Analyst transitioning into Cybersecurity, based in Sydney, Australia.
 - Python tools for automation and analysis
 
 ### Contact
-- LinkedIn: [- LinkedIn: [[seu link]](https://www.linkedin.com/in/gabriel-machado-906a43285/)]
+- LinkedIn: [[[LinkedIn]](https://www.linkedin.com/in/gabriel-machado-906a43285/)]
 - Email: [g.machado24@icloud.com]
