@@ -1,40 +1,44 @@
 ## Hi, I'm Gabriel Machado 👋
 
-IT Support Analyst transitioning into Cybersecurity.
+IT Support Analyst transitioning into Cybersecurity — focused on penetration testing and offensive security.
 
 ---
 
 ## 🔐 Cybersecurity Journey
 
-- Completed **Pre Security Path** (TryHackMe)
-- Currently studying **Jr Penetration Tester Path**
-- Building hands-on labs in:
-  - Network scanning (Nmap)
-  - Enumeration
-  - Basic exploitation
+- ✅ Completed **Pre Security Path** (TryHackMe)
+- 🔄 Currently on **Jr Penetration Tester Path** (TryHackMe)
+- 🧪 **5 labs documented** with full methodology writeups
+- 🏆 Machines rooted: Startup, LazyAdmin + more
+
+**Active on:** TryHackMe | HackTheBox
 
 ---
 
-## 🧠 Technical Background
+## 🛠️ Tools & Skills
 
-- **Databases:** PostgreSQL, MySQL, Firebird  
-- **Programming:** Python, JavaScript  
-- **Experience:** ERP support & troubleshooting (L1/L2)  
-- **Networking:** TCP/IP, DNS, HTTP  
+| Category | Tools |
+|----------|-------|
+| Scanning & Enumeration | `nmap` `gobuster` |
+| Exploitation | `netcat` `php webshells` `reverse shells` |
+| Network Analysis | `Wireshark` |
+| Reverse Engineering | `Ghidra` `strings` |
+| Scripting | `Python` `Bash` |
+| Databases | `PostgreSQL` `MySQL` `Firebird` |
+| Networking | `TCP/IP` `DNS` `HTTP` |
 
 ---
 
-## 📂 Projects & Portfolio
+## 📂 Featured Projects
 
-- TryHackMe writeups (reverse engineering, web enumeration)
-- Network scanning & enumeration labs
-- Python tools for automation and analysis *(in progress)*
+- 🔓 **[TryHackMe Writeups](https://github.com/GabrielMachado0/tryhackme-writeups)** — full methodology docs covering web exploitation, reverse engineering, privilege escalation and network analysis
+- 🛠️ **Python automation tools** — scripting for security tasks and analysis
 
 ---
 
 ## 🎯 Goal
 
-Transition into a **Cybersecurity** and continue developing practical offensive and defensive skills.
+Transition into a **Penetration Tester / SOC Analyst role** and keep building practical offensive and defensive skills — one lab at a time.
 
 ---
 
