@@ -40,5 +40,5 @@ Transition into a **Cybersecurity** and continue developing practical offensive 
 
 ## 📫 Contact
 
-- LinkedIn: [[[Gabriel Machado]](https://www.linkedin.com/in/gabriel-machado-906a43285/)]
-- Email: [g.machado24@icloud.com]
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-machado-906a43285/)
+- 📧 g.machado24@icloud.com
