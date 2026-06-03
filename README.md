@@ -34,7 +34,7 @@ IT Support Analyst transitioning into Cybersecurity.
 
 ## 🎯 Goal
 
-Transition into a **Cybersecurity / SOC Analyst role** and continue developing practical offensive and defensive skills.
+Transition into a **Cybersecurity** and continue developing practical offensive and defensive skills.
 
 ---
 
